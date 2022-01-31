@@ -1,0 +1,18 @@
+{
+  "name": "bridgetogether",
+  "version": "0.0.1",
+  "description": "Bridging assets from one chain to another without paying as much gas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.cbhq.net/arnaud-brousseau/bridgetogether"
+  },
+  "author": "bridge-ameast-0",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  }
+}
