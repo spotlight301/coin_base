@@ -4,11 +4,23 @@ Project built during Coinbase's SmartContract Hack Days 2022. The goal is to
 build a smart contract and website to aggregate on-chain deposit and make
 bridging less expensive.
 
-# Advanced Sample Hardhat Project
+# Installing
 
-This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
+## Dependencies
+You'll need to install `npm`. Once done, run `npm install`.
 
-The project comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
+## Run a Hardhat node
+You can do this with `npx hardhat node`
+
+## Install CB Wallet extension (dev edition!)
+See [this slide deck](https://docs.google.com/presentation/d/1qbp6mZQRWM1mojehQbD7zex7-RINRGUJWRiNsAWvIww/edit#slide=id.g1110cabac13_0_131)
+
+# Contents and tasks
+
+The project comes with a sample contract, a test for that contract, a sample
+script that deploys that contract, and an example of a task implementation,
+which simply lists the available accounts. It also comes with a variety of
+other tools, preconfigured to work with the project code.
 
 Try running some of the following tasks:
 
